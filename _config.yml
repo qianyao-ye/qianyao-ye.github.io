@@ -21,7 +21,7 @@ title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Qianyao Ye"
 description              : "Personal website of Sheng Cai (Charles)."
-url                      : https://qianyao-ye.github.io
+url                      : https://www.qianyaoye.com/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "qianyao-ye/qianyao-ye.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
