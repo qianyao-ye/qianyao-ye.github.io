@@ -13,9 +13,9 @@ redirect_from:
 
 <br />
 
-I am a Ph.D. candidate in Economics at Yale. 
+I am a Ph.D. candidate in Economics at Yale University. 
 
-My research fields are labor economics and applied microeconomics. I focus on human capital development. 
+My research fields are labor economics and applied microeconomics, with a primary focus on human capital development.
 
 I am on the 2023-2024 academic job market.
 
