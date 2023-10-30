@@ -20,7 +20,7 @@ title                    : "Qianyao Ye"
 title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Qianyao Ye"
-description              : "Personal website of Sheng Cai (Charles)."
+description              : "Personal website of Qianyao Ye"
 url                      : https://www.qianyaoye.com
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "qianyao-ye/qianyao-ye.github.io"
@@ -37,9 +37,9 @@ og_image                 : assets/images/favicon_folder/android-chrome-512x512.p
 # Analytics
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-Z8XW07G1ZW"
     anonymize_ip         : # true, false (default)
 
 
@@ -48,7 +48,7 @@ author:
   name             : "Qianyao Ye"
   avatar           : "/assets/images/photo_ye.jpg"
   bio              : "Ph.D. Candidate in Economics at Yale" 
-  location         : # "Hong Kong"
+  location         : # "New Haven"
   email            : 
   links:
     # - label: "Email"
