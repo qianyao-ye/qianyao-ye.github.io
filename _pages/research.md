@@ -7,8 +7,8 @@ author_profile: false
 
 ## Working papers
 
-<!-- **[Child Development, Parental investments, and Social Capital](/assets/files/qianyao_jmp.pdf)** (*Job Market Paper*)  -->
-**Child Development, Parental Investments, and Social Capital** (*Job Market Paper*) 
+**[Child Development, Parental investments, and Social Capital](/assets/files/qianyao_jmp.pdf)** (*Job Market Paper*) 
+<!-- **Child Development, Parental Investments, and Social Capital** (*Job Market Paper*)  -->
 
 <p style="font-size:14px">
     Child development is shaped by both home and neighborhood environments. While the effects of parental investments on child development are well-established, the mechanisms underlying neighborhood impacts remain understudied. In this paper, I examine a novel channel of neighborhood effects: social capital. I study the roles of parental investments and social capital in skill development within a unified framework for children aged 6-15. This paper is innovative in measuring social capital at the individual level by combining a latent factor model with a novel neighborhood survey from the Project on Human Development in Chicago Neighborhoods. Social capital reflects neighborhood connectedness and neighbors' engagement in child support and monitoring. Leveraging a natural experiment from the Chicago public housing demolition, I estimate the dynamic skill production function for cognitive and socio-emotional skills. I find that social capital is important for both cognitive and socio-emotional skills, while parental investments are effective in developing cognitive skills during these ages. Counterfactual experiments suggest that equalizing social capital levels in low-socioeconomic-status (SES) neighborhoods to those in high-SES neighborhoods could reduce the skill gap between high-SES and low-SES children by 25% for cognitive skills and 80% for socio-emotional skills.
