@@ -7,7 +7,7 @@ author_profile: false
 
 ## Working papers
 
-**[Child Development, Parental investments, and Social Capital](/assets/files/qianyao_jmp.pdf)** (*Job Market Paper*) 
+**[Child Development, Parental Investments, and Social Capital](/assets/files/qianyao_jmp.pdf)** (*Job Market Paper*) 
 <!-- **Child Development, Parental Investments, and Social Capital** (*Job Market Paper*)  -->
 
 <p style="font-size:14px">
