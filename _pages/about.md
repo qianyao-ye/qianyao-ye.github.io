@@ -13,11 +13,9 @@ redirect_from:
 
 <br />
 
-I am a Ph.D. candidate in Economics at Yale University. 
+I am an Assistant Professor at the Wang Yanan lnstitute for Studies in Economics, Xiamen University. I hold a Ph.D. in Economics from Yale University.
 
 My research fields are labor economics and applied microeconomics, with a primary focus on human capital development.
 
-I am on the 2023-2024 academic job market.
-
-Email: [qianyao.ye@yale.edu](mailto:qianyao.ye@yale.edu)
+Email: [qianyao.ye@xmu.edu.cn](mailto:qianyao.ye@xmu.edu.cn) | [qianyao.ye.econ@outlook.com](mailto:qianyao.ye.econ@outlook.com)
 

@@ -14,16 +14,16 @@ author_profile: false
 This paper examines the impact of social capital on child development. Social capital reflects neighborhood connectedness and neighbors' engagement in child support and monitoring. I measure social capital using a novel neighborhood survey from the Project on Human Development in Chicago Neighborhoods with a latent factor model. To study the roles of social capital and parental investments in skill development within a unified framework, I estimate a dynamic skill production function for children aged 6-15. Leveraging a natural experiment from the Chicago public housing demolition, I find that social capital is important for both cognitive and socio-emotional skills. Parental investments are effective for cognitive skills during these ages. Counterfactual experiments suggest that increasing social capital levels in low-socioeconomic-status (SES) neighborhoods to those in high-SES neighborhoods could reduce the skill gap between high-SES and low-SES children by 25% for cognitive skills and 80% for socio-emotional skills.
 </p>
 
-**[Middle Childhood Development: Parental Investments, School Quality, and Genetic Influences](/assets/files/mcs_paper.pdf)**, with [Sarah Cattan](https://sites.google.com/site/sjcattan/home)  
+<!--**[Middle Childhood Development: Parental Investments, School Quality, and Genetic Influences](/assets/files/mcs_paper.pdf)**, with [Sarah Cattan](https://sites.google.com/site/sjcattan/home) -->
 
-<!--**Middle Childhood Development: Parental Investments, School Quality, and Genetic Influences**, with [Sarah Cattan](https://sites.google.com/site/sjcattan/home) (*draft available upon request*)-->
+**Middle Childhood Development: Parental Investments, School Quality, and Genetic Influences**, with [Sarah Cattan](https://sites.google.com/site/sjcattan/home) (*A revised draft will be available soon*)
 
 <p style="font-size:14px">
 In this paper, we examine how parental investments, school quality, genetics, and their interactions influence child development. Specifically, we estimate the skill production functions for both cognitive and socio-emotional skills. We implement an instrumental variable approach and leverage information from school application portfolios to address the potential endogeneity of parental investments and school quality. We use polygenic scores to capture an individual’s genetic propensity for educational attainment. Using data from the Millennium Cohort Study in the UK, we find distinct patterns for cognitive skills and socio-emotional skills. Cognitive skills at age 7 are significantly influenced by parental investments, school quality, genetics, and lagged skills at age 5. Notably, school quality and polygenic scores are substitutes, indicating that better schools can mitigate skill disparities related to genetic predisposition for educational attainment. In contrast, socio-emotional skills at this stage are predominantly affected by previous skills and are less sensitive to investments. 
 </p>
 
 
-## Work in progress
+## Selected Work in progress
 
 **Adapting to Climate Change with Migration: Tropical Cyclones and Human Capital Accumulation**, with [Siu Yuat Wong](https://www.siuyuat.com/)
 
