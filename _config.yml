@@ -47,7 +47,7 @@ analytics:
 author:
   name             : "Qianyao Ye"
   avatar           : "/assets/images/photo_ye.jpg"
-  bio              : "Ph.D. Candidate in Economics at Yale" 
+  bio              : #"Ph.D. Candidate in Economics at Yale" 
   location         : # "New Haven"
   email            : 
   links:
