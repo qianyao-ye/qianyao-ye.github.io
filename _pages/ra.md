@@ -5,8 +5,6 @@ layout: single
 author_profile: false
 ---
 
-# Research Assistant Position
-
 I am looking for a Research Assistant with good quantitative and coding skills and solid English reading and writing ability. 
 
 Interested applicants should email the following to my email:
