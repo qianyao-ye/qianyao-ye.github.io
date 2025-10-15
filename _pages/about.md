@@ -19,3 +19,10 @@ My research fields are labor economics and applied microeconomics, with a primar
 
 Email: [qianyao.ye@xmu.edu.cn](mailto:qianyao.ye@xmu.edu.cn) | [qianyao.ye.econ@outlook.com](mailto:qianyao.ye.econ@outlook.com)
 
+I am looking for a Research Assistant with good quantitative and coding skills and solid English reading and writing ability. 
+Interested applicants should email the following to my email:
+1. Resume/CV, including:
+    * Education background
+    * Familiarity with R, Stata, and other programming languages
+    * Any research or RA experience (if applicable)
+2. Transcripts    
