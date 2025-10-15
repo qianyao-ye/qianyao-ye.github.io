@@ -17,6 +17,6 @@ I am an Assistant Professor at the Wang Yanan lnstitute for Studies in Economics
 
 My research fields are labor economics and applied microeconomics, with a primary focus on human capital development.
 
-I am currently hiring a Research Assistant. Please see [details here →](/ra/) if you are interested. 
+I am currently hiring a Research Assistant. Please see [details here](/ra/) if you are interested. 
 
 Email: [qianyao.ye@xmu.edu.cn](mailto:qianyao.ye@xmu.edu.cn) | [qianyao.ye.econ@outlook.com](mailto:qianyao.ye.econ@outlook.com)

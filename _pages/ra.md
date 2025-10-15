@@ -1,6 +1,6 @@
 ---
 permalink: /ra/
-title: "Research Assistant Position"
+title: "RA Position"
 layout: single
 author_profile: false
 ---
