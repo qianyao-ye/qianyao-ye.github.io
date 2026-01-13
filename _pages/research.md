@@ -7,11 +7,14 @@ author_profile: false
 
 ## Working papers
 
-**[Child Development, Parental Investments, and Social Capital](/assets/files/qianyao_jmp.pdf)** (*Job Market Paper*) 
+**[Child Development, Parental Investments, and Community Social Support](/assets/files/Ye_Community_Support.pdf)** 
+<br><span style="font-size:13px">Previously circulated as: "Child Development, Parental Investments, and Social Capital."</span>
+
+<!--**[Child Development, Parental Investments, and Social Capital](/assets/files/qianyao_jmp.pdf)** (*Job Market Paper*) -->
 <!-- **Child Development, Parental Investments, and Social Capital** (*Job Market Paper*)  -->
 
 <p style="font-size:14px">
-This paper examines the impact of social capital on child development. Social capital reflects neighborhood connectedness and neighbors' engagement in child support and monitoring. I measure social capital using a novel neighborhood survey from the Project on Human Development in Chicago Neighborhoods with a latent factor model. To study the roles of social capital and parental investments in skill development within a unified framework, I estimate a dynamic skill production function for children aged 6-15. Leveraging a natural experiment from the Chicago public housing demolition, I find that social capital is important for both cognitive and socio-emotional skills. Parental investments are effective for cognitive skills during these ages. Counterfactual experiments suggest that increasing social capital levels in low-socioeconomic-status (SES) neighborhoods to those in high-SES neighborhoods could reduce the skill gap between high-SES and low-SES children by 25% for cognitive skills and 80% for socio-emotional skills.
+This paper provides new evidence on how neighborhoods shape child development by studying the role of community social support: the collective capacity to nurture, supervise, and invest in children. Using novel neighborhood data from the Project on Human Development in Chicago Neighborhoods, I construct a measure of this community input and incorporate it, alongside parental investments, into a dynamic skill production function for children aged 6 to 15. Leveraging a natural experiment created by Chicago’s public housing demolition, I find that community support significantly enhances both cognitive and socio-emotional skills, whereas parental investments primarily improve cognitive development. Counterfactual simulations indicate that raising community support in low-income neighborhoods to the level observed in high-income areas would reduce the cognitive skill gap by 27 percent and the socio-emotional skill gap by 22 percent.
 </p>
 
 <!--**[Middle Childhood Development: Parental Investments, School Quality, and Genetic Influences](/assets/files/mcs_paper.pdf)**, with [Sarah Cattan](https://sites.google.com/site/sjcattan/home) -->
