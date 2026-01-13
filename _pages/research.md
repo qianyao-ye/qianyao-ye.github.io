@@ -8,7 +8,7 @@ author_profile: false
 ## Working papers
 
 **[Child Development, Parental Investments, and Community Social Support](/assets/files/Ye_Community_Support.pdf)** 
-<br><span style="font-size:13px">Previously circulated as: "Child Development, Parental Investments, and Social Capital."</span>
+<br><span style="font-size:13px">Previously circulated as: "Child Development, Parental Investments, and Social Capital"</span>
 
 <!--**[Child Development, Parental Investments, and Social Capital](/assets/files/qianyao_jmp.pdf)** (*Job Market Paper*) -->
 <!-- **Child Development, Parental Investments, and Social Capital** (*Job Market Paper*)  -->
